@@ -24,22 +24,59 @@
   .borde{
     border-style: solid;
     border-color: blueviolet;
-    border-width: 4px;
+    border-width: 3px;
   }
 
   .fondocard{
-    background-color: #17a3b8 !important;
+    background-color: #000405 !important;
   }
 
   .colorfondobarras{
-    background-color:#17a3b8;
+    background-color:#17a3b8 !important;
+    color:white;
   }
 
   .lineaseparacion{
-    background-color: #17a3b8;;
+    background-color: #17a3b8;
   }
 
   .imgdestacado{
     height: 30vh;
   }
-  
+
+  .contform{
+    text-align: center;
+  }
+
+  .tipoform
+  {
+    width:50%;
+    margin:0;
+    align-items: center;
+    text-align: center !important;
+    position: relative !important;
+  }
+
+  /*ICONOS*/
+
+.icons-section {
+	background-color: #1E1A13;
+	text-align: center;
+	padding: 50px;
+}
+
+.icons-section h2 {
+	font-weight: 500;
+	font-size: 40px;
+	margin-bottom: 1em;
+}
+
+.icons {
+	display: inline-block;
+	width: 30%;
+}
+
+.icons p {
+	font-size: 25px;
+	font-weight: 300;
+}
