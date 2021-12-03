@@ -1,3 +1,6 @@
-# prueba
-repositorio de prueba
-esta es una prueba de readme
+# Especificaciones
+
+gh-pages    :   https://infoclub.desafiolab.com/cohorts/32/dashboard
+
+
+
